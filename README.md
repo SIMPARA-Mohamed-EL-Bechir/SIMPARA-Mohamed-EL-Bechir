@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SIMPARA-Mohamed-EL-Bechir
 - 👀 I’m interested in the new technologie
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on cyber security
+- 💞️ I’m looking to collaborate on the cyber security
 - 📫 How to reach me simparamohamedelbechir7@gmail.com
 
 <!---
