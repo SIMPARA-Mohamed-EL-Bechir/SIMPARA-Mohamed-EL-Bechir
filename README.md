@@ -55,13 +55,13 @@
 </div>
 
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIMPARA-Mohamed-EL-Bechir&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/SIMPARA-Mohamed-EL-Bechir)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SIMPARA-Mohamed-EL-Bechir&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIMPARA-Mohamed-EL-Bechir&layout=compact&theme=radical&hide_border=true)](https://github.com/SIMPARA-Mohamed-EL-Bechir)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=SIMPARA-Mohamed-EL-Bechir&theme=radical&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
