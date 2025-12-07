@@ -61,12 +61,19 @@
   <img src="https://github.com/SIMPARA-Mohamed-EL-Bechir/SIMPARA-Mohamed-EL-Bechir/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIMPARA-Mohamed-EL-Bechir&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
-</div>
-
 ---
+
+### ⚡ Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIMPARA-Mohamed-EL-Bechir&theme=dark&hide_border=true" height="160" alt="streak graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=SIMPARA-Mohamed-EL-Bechir&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" alt="stats graph" />
+
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIMPARA-Mohamed-EL-Bechir&layout=compact&theme=dark&hide_border=true" height="160" alt="languages graph" />
+</div>
 
 ### 📊 GitHub Activity
 
