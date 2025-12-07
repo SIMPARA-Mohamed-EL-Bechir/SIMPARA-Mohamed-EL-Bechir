@@ -83,7 +83,7 @@
 ### 📫 Let's Connect!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-el-b%C3%A9chir-simpara-5a3615288/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-el-b%C3%A9chir-simpara-526184369/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:simparamohamedelbechir7@gmail.com">
