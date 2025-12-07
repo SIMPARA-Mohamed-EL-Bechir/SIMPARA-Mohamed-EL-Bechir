@@ -13,7 +13,7 @@
 - 🎓 I am a final-year **Computer Science Engineering Student** at **Mohammadia School of Engineers (EMI)**, Rabat.
 - 🌱 I’m deeply interested in **Data Science**, **Artificial Intelligence** (NLP, LLMs), and **Software Architecture**.
 - 🎮 In my free time, I explore **Game Development** using Unity & C#.
-- 💼 actively looking for a **Capstone Internship (PFE)** starting early 2026.
+- 💼 Actively looking for a **Capstone Internship (PFE)** starting early 2026.
 
 ---
 
@@ -58,7 +58,7 @@
 ### 🐍 My Contributions
 
 <div align="center">
-  <img src="https://github.com/SIMPARA-Mohamed-EL-Bechir/SIMPARA-Mohamed-EL-Bechir/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/SIMPARA-Mohamed-EL-Bechir/SIMPARA-Mohamed-EL-Bechir/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -66,23 +66,13 @@
 ### ⚡ Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIMPARA-Mohamed-EL-Bechir&theme=dark&hide_border=true" height="160" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIMPARA-Mohamed-EL-Bechir&theme=radical&hide_border=true" height="150" alt="streak graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=SIMPARA-Mohamed-EL-Bechir&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SIMPARA-Mohamed-EL-Bechir&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIMPARA-Mohamed-EL-Bechir&layout=compact&theme=dark&hide_border=true" height="160" alt="languages graph" />
-</div>
-
-### 📊 GitHub Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SIMPARA-Mohamed-EL-Bechir&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=SIMPARA-Mohamed-EL-Bechir&theme=radical&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIMPARA-Mohamed-EL-Bechir&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
 </div>
 
 ---
