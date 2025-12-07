@@ -66,15 +66,14 @@
 ### ⚡ Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIMPARA-Mohamed-EL-Bechir&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIMPARA-Mohamed-EL-Bechir&theme=dark&hide_border=true" height="170" alt="streak graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=SIMPARA-Mohamed-EL-Bechir&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SIMPARA-Mohamed-EL-Bechir&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="stats graph" />
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIMPARA-Mohamed-EL-Bechir&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIMPARA-Mohamed-EL-Bechir&layout=compact&theme=dark&hide_border=true&langs_count=8" height="170" alt="languages graph" />
 </div>
-
 ---
 
 ### 📫 Let's Connect!
