@@ -67,7 +67,9 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIMPARA-Mohamed-EL-Bechir&theme=dark&hide_border=true" height="170" alt="streak graph" />
-  <br>
+<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=SIMPARA-Mohamed-EL-Bechir&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 [![Trophy](https://github-profile-trophy.vercel.app/?username=SIMPARA-Mohamed-EL-Bechir&theme=radical&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
