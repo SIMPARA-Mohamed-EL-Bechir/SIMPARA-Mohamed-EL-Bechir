@@ -59,8 +59,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SIMPARA-Mohamed-EL-Bechir&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIMPARA-Mohamed-EL-Bechir&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIMPARA-Mohamed-EL-Bechir&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/SIMPARA-Mohamed-EL-Bechir)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIMPARA-Mohamed-EL-Bechir&layout=compact&theme=radical&hide_border=true)](https://github.com/SIMPARA-Mohamed-EL-Bechir)
+
 </div>
 
 ---
