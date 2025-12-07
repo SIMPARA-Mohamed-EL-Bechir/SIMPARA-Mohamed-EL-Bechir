@@ -11,7 +11,6 @@
 ### 👨‍💻 About Me
 
 - 🎓 I am a final-year **Computer Science Engineering Student** at **Mohammadia School of Engineers (EMI)**, Rabat.
-- 🔭 I’m currently working on **Blockchain DApps** (KYC Systems) and **Big Data Analysis**.
 - 🌱 I’m deeply interested in **Data Science**, **Artificial Intelligence** (NLP, LLMs), and **Software Architecture**.
 - 🎮 In my free time, I explore **Game Development** using Unity & C#.
 - 💼 actively looking for a **Capstone Internship (PFE)** starting early 2026.
