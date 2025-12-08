@@ -71,13 +71,6 @@
   <br>
 </div>
 
-<div align="center">
-  <br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SIMPARA-Mohamed-EL-Bechir&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="trophy" />
-  </a>
-</div>
-
 ---
 
 ### 📫 Let's Connect!
